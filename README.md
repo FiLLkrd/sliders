@@ -1,4 +1,7 @@
 # Слайдер с картинками
+
+ссылка: https://fillkrd.github.io/sliders/
+
 ## Куда поедем
 
 
